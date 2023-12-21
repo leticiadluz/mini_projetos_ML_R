@@ -17,7 +17,7 @@ Pergunta 2: Existe uma correlação entre a expectativa de vida e a consciência
 Pergunta 3: O aumento na expectativa de vida tem algum impacto na média de felicidade geral da população? Qual é a correlação entre essas variáveis?
 Pergunta 4: Países com baixo índice de suporte social apresentam maior percepção de corrupção em empresas e governo?
 Pergunta 5: Indivíduos mais generosos tendem a ser mais felizes?
-Neste projeto, utilizamos engenharia de atributos, juntamente com técnicas avançadas de análise exploratória de dados para investigar e responder a essas perguntas.
+Neste projeto, utilizamos engenharia de atributos, juntamente com técnicas avançadas de análise exploratória de dados para investigar e responder a essas perguntas.  
 O notebook deste projeto encontra-se disponível [aqui](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/AED_dados_socioeconomicos.ipynb)
 
 ## Ferramentas utilizadas
