@@ -22,7 +22,7 @@ O notebook deste projeto encontra-se disponível [aqui](https://github.com/letic
 
 ## Prevendo o Consumo de Energia de Carros Elétricos
 
-O projeto **Prevendo o Consumo de Energia de Carros Elétricos** tem como propósito desenvolver um modelo de Machine Learning capaz de prever o consumo de energia de carros elétricos. Isso será feito considerando uma variedade de fatores, incluindo o tipo e quantidade de motores elétricos no veículo, seu peso, capacidade de carga e outros atributos relevantes. Na construção do modelo, empregou-se a biblioteca RandomForest para avaliar a importância das variáveis. Ao final desse processo, optou-se pela utilização do modelo de regressão linear para a criação do modelo final. 
+O projeto **Prevendo o Consumo de Energia de Carros Elétricos** tem como propósito desenvolver um modelo de Machine Learning capaz de prever o consumo de energia de carros elétricos. Isso será feito considerando uma variedade de fatores, incluindo o tipo e quantidade de motores elétricos no veículo, seu peso, capacidade de carga e outros atributos relevantes. Na construção do modelo, empregou-se a biblioteca RandomForest para avaliar a importância das variáveis. Ao final desse processo, optou-se pela utilização do modelo de regressão linear para a criação do modelo final.  Já a avaliação de desempenho do modelo de regressão inclui a análise de métricas fundamentais, como o Erro Quadrático Médio (MSE), a Raiz do Erro Quadrático Médio (RMSE) e o Coeficiente de Determinação (R²). Além disso, são realizadas verificações adicionais, como a avaliação da homocedasticidade para assegurar a constância da variância dos resíduos ao longo dos valores preditos, assim como a verificação da normalidade dos resíduos.
 
 ## Ferramentas utilizadas
 
